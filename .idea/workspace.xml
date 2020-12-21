@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e805a222-1590-435c-8f48-012469930eac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/workerman/workerman" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ldzzT10tT6z7s9DBug5gW9Gtfa" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../welive" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy\WWW\worktest" />
+      <recent name="D:\phpstudy\WWW\worktest\service" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e805a222-1590-435c-8f48-012469930eac" name="Default Changelist" comment="" />
+      <created>1607942018615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607942018615</updated>
+      <workItem from="1607942019819" duration="1292000" />
+      <workItem from="1608358330519" duration="3424000" />
+      <workItem from="1608514025715" duration="2669000" />
+      <workItem from="1608523378809" duration="10795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="635" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608549076854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608549076854" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1608544410486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608544410486" />
+    <state x="764" y="438" key="NewPhpFileDialog" timestamp="1608547061442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="438" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608547061442" />
+    <state x="491" y="151" key="SettingsEditor" timestamp="1608544849310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608544849310" />
+  </component>
+</project>
